@@ -33,7 +33,7 @@ li {
   line-height: 1.5;
   text-decoration: none;
   color: #2e2f42;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 .menu-nav li a:hover {
