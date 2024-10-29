@@ -1,5 +1,7 @@
 body {
+  font-family: "Roboto", "Raleway", sans-serif;
   background-color: #ffffff;
+  color: #2e2f42;
 }
 
 li {
@@ -23,48 +25,46 @@ li {
   color: #2e2f42;
 }
 
-.menu-studio {
-  font-family: "Roboto";
+.menu-nav li a {
   font-weight: 500;
   font-size: 16px;
   line-height: 21px;
-  color: #2e2f42;
   text-decoration: none;
+  color: #2e2f42;
 }
-.menu-portfolio {
-  font-family: "Roboto";
+
+.menu-nav li a:hover {
   font-weight: 500;
   font-size: 16px;
   line-height: 21px;
-  color: #2e2f42;
+  color: #404bbf;
   text-decoration: none;
 }
-.menu-contacts {
-  font-family: "Roboto";
+.menu-nav.studio-activ:active {
   font-weight: 500;
   font-size: 16px;
   line-height: 21px;
-  color: #2e2f42;
-  text-decoration: none;
+  color: #e7e9fc;
+  text-decoration: underline;
 }
-.mailto {
-  font-family: "Roboto";
+
+.menu-address li a {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   color: #434455;
   text-decoration: none;
 }
-.phone {
-  font-family: "Roboto";
+
+.menu-address li a:hover {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #434455;
+  color: #404bbf;
   text-decoration: none;
 }
+
 .header1 {
-  font-family: "Roboto";
   font-weight: 700;
   font-size: 56px;
   line-height: 60px;
@@ -72,7 +72,6 @@ li {
   color: white;
 }
 .button-text {
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -81,4 +80,77 @@ li {
   width: 169px;
   height: 56px;
   border-radius: 4px;
+}
+
+.button-text:hover {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+  background-color: #404bbf;
+  width: 169px;
+  height: 56px;
+  border-radius: 4px;
+}
+.our-goal-items {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  /* color: #2e2f42; */
+}
+
+.our-goal-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.out-team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  /* color: #2e2f42; */
+}
+
+.photo-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  /* color: #2e2f42; */
+}
+
+.photo-job {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.Our-Portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  /* color: #2e2f42; */
+}
+
+.header3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  /* color: #2e2f42; */
+}
+.img-items {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #f4f4fd;
+  background-color: #2e2f42;
 }
