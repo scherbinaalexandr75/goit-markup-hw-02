@@ -13,12 +13,14 @@ li {
 }
 
 .logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   text-decoration: none;
+  letter-spacing: 0.03;
+  text-transform: uppercase;
 }
 
 .logostudio {
@@ -28,9 +30,10 @@ li {
 .menu-nav li a {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.3125;
+  line-height: 1.5;
   text-decoration: none;
   color: #2e2f42;
+  letter-spacing: 0.02;
 }
 
 .menu-nav li a:hover {
@@ -79,6 +82,7 @@ li {
   background-color: #4d5ae5;
   width: 169px;
   height: 56px;
+  border-radius: 4px;
 }
 
 .button-text:hover {
