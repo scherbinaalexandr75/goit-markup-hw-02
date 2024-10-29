@@ -17,7 +17,7 @@ li {
   color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.16;
   text-decoration: none;
 }
 
@@ -28,7 +28,7 @@ li {
 .menu-nav li a {
   font-weight: 500;
   font-size: 16px;
-  line-height: 21px;
+  line-height: 1.3125;
   text-decoration: none;
   color: #2e2f42;
 }
@@ -36,7 +36,7 @@ li {
 .menu-nav li a:hover {
   font-weight: 500;
   font-size: 16px;
-  line-height: 21px;
+  line-height: 1.3125;
   color: #404bbf;
   text-decoration: none;
 }
@@ -51,7 +51,7 @@ li {
 .menu-address li a {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: #434455;
   text-decoration: none;
 }
@@ -59,7 +59,7 @@ li {
 .menu-address li a:hover {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: #404bbf;
   text-decoration: none;
 }
@@ -67,14 +67,14 @@ li {
 .header1 {
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07;
   background-color: #2e2f42;
   color: white;
 }
 .button-text {
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: white;
   background-color: #4d5ae5;
   width: 169px;
@@ -85,72 +85,73 @@ li {
 .button-text:hover {
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: white;
   background-color: #404bbf;
   width: 169px;
   height: 56px;
   border-radius: 4px;
+  cursor: pointer;
 }
 .our-goal-items {
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   /* color: #2e2f42; */
 }
 
 .our-goal-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: #434455;
 }
 
 .out-team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   /* color: #2e2f42; */
 }
 
 .photo-name {
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   /* color: #2e2f42; */
 }
 
 .photo-job {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: #434455;
 }
 
 .Our-Portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   /* color: #2e2f42; */
 }
 
 .header3 {
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   /* color: #2e2f42; */
 }
 .img-items {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: #434455;
 }
 
 .footer-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   color: #f4f4fd;
   background-color: #2e2f42;
 }
