@@ -161,13 +161,15 @@ li {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  /* color: #2e2f42; */
+  color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .img-items {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .section-our-portfolio {
