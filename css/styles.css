@@ -50,6 +50,9 @@ li {
   color: #e7e9fc;
   text-decoration: underline;
 }
+.menu-address {
+  font-style: normal;
+}
 
 .menu-address li a {
   font-style: normal;
