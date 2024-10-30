@@ -72,12 +72,17 @@ li {
   text-decoration: none;
 }
 
+.section-header {
+  background-color: #2e2f42;
+}
+
 .header1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  background-color: #2e2f42;
   color: white;
+  text-align: center;
+  letter-spacing: 0, 02em;
 }
 .button-text {
   font-weight: 500;
@@ -88,18 +93,11 @@ li {
   width: 169px;
   height: 56px;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .button-text:hover {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  color: white;
   background-color: #404bbf;
-  width: 169px;
-  height: 56px;
-  border-radius: 4px;
-  cursor: pointer;
 }
 .our-goal-items {
   font-weight: 500;
