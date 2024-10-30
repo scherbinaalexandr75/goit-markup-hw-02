@@ -82,8 +82,12 @@ li {
   line-height: 1.07;
   color: white;
   text-align: center;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
 }
+.section-ourgoal {
+  background-color: white;
+}
+
 .button-text {
   font-weight: 500;
   font-size: 16px;
@@ -94,6 +98,7 @@ li {
   height: 56px;
   border-radius: 4px;
   cursor: pointer;
+  letter-spacing: 0.04em;
 }
 
 .button-text:hover {
