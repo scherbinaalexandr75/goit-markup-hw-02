@@ -52,11 +52,13 @@ li {
 }
 
 .menu-address li a {
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 
 .menu-address li a:hover {
