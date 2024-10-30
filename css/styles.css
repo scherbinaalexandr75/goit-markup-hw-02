@@ -167,10 +167,18 @@ li {
   color: #434455;
 }
 
+.footer {
+  background-color: #2e2f42;
+}
+
 .footer-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #f4f4fd;
   background-color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+.logostudio-footer {
+  color: #f4f4fd;
 }
