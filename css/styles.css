@@ -89,7 +89,9 @@ li {
 }
 
 .header-our-goal {
+  color: #2e2f42;
   background-color: white;
+  letter-spacing: 0.02em;
 }
 
 .button-text {
@@ -120,6 +122,7 @@ li {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .out-team-title {
