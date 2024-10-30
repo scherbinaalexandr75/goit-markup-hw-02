@@ -76,6 +76,10 @@ li {
   text-decoration: none;
 }
 
+.menu-address li a:focus {
+  color: #404bbf;
+}
+
 .section-header {
   background-color: #2e2f42;
 }
