@@ -151,7 +151,10 @@ li {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  /* color: #2e2f42; */
+  color: #2e2f42;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .header3 {
@@ -165,6 +168,9 @@ li {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+}
+
+.section-our-portfolio {
 }
 
 .footer {
