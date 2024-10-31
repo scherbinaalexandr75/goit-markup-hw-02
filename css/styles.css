@@ -19,14 +19,30 @@ body {
 }
 
 /* Section 3 */
-.section-our-team{
-background-color: #f4f4fd;
+.section-our-team {
+  background-color: #f4f4fd;
 }
 
+.our-team-backcolor {
+  background-color: #ffffff;
+}
+
+.card-header3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.card-text3 {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 
 /* Section 4 */
-.section-header
-{
+.section-header {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -35,15 +51,15 @@ background-color: #f4f4fd;
   color: #2e2f42;
 }
 
-.card-header{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;
+.card-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
-.card-text{
+.card-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
