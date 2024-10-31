@@ -18,6 +18,20 @@ body {
   color: #4d5ae5;
 }
 
+/* Section 2 */
+.section-head2{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.section-text2{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
 /* Section 3 */
 .section-our-team {
   background-color: #f4f4fd;
@@ -33,9 +47,6 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.text3 {
 }
 
 .card-text3 {
