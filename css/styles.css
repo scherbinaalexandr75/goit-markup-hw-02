@@ -36,10 +36,10 @@ li {
   letter-spacing: 0.02em;
 }
 
-.menu-nav li a:hover {
+.studio-activ:hover {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.3125;
+  line-height: 1.5;
   color: #404bbf;
   text-decoration: none;
 }
@@ -47,10 +47,10 @@ li {
   color: #404bbf;
 }
 
-.menu-nav.studio-activ:active {
+.studio-activ:active {
   font-weight: 500;
   font-size: 16px;
-  line-height: 21px;
+  line-height: 1.5;
   color: #404bbf;
   text-decoration: underline;
 }
