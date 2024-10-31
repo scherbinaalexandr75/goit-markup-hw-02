@@ -18,6 +18,16 @@ body {
   color: #4d5ae5;
 }
 
+.section-header
+{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 .footer-studio {
   color: #f4f4fd;
 }
