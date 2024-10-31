@@ -20,7 +20,7 @@ body {
 
 /* Section 2 */
 
-li .section-head2 {
+.section-head2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -28,7 +28,7 @@ li .section-head2 {
   color: #2e2f42;
 }
 
-li .section-text2 {
+.section-text2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
