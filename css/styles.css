@@ -36,7 +36,20 @@ li {
   letter-spacing: 0.02em;
 }
 
-.studio-activ:hover {
+.portfolio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+.portfolio:hover {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #404bbf;
+}
+
+.studio-activ a:hover {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
