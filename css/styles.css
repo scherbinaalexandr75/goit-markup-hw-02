@@ -33,15 +33,15 @@ body {
   color: #404bbf;
 }
 
-.link-item {
+.link-itm {
   color: #2e2f42;
 }
 
-.link-item:hover {
+.link-itm:hover {
   color: #404bbf;
 }
 
-.link-item:focus {
+.link-itm:focus {
   color: #404bbf;
 }
 
