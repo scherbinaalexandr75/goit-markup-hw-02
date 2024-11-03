@@ -77,11 +77,11 @@ body {
   color: #4d5ae5;
 }
 /* Section 1 */
-.section1 {
+.section-one {
   background-color: #2e2f42;
 }
 
-.section-head1 {
+.section-head-one {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -89,7 +89,7 @@ body {
   color: #ffffff;
 }
 
-.button1 {
+.button {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -98,10 +98,10 @@ body {
   cursor: pointer;
 }
 
-.button1:hover {
+.button:hover {
   background-color: #404bbf;
 }
-.button1:focus {
+.button:focus {
   background-color: #404bbf;
 }
 
