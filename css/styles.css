@@ -107,7 +107,7 @@ body {
 
 /* Section 2 */
 
-.section-header2 {
+.section-header-two {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -116,7 +116,7 @@ body {
   color: #2e2f42;
 }
 
-.section-head2 {
+.section-head-two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -124,7 +124,7 @@ body {
   color: #2e2f42;
 }
 
-.section-text2 {
+.section-text-two {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
