@@ -33,6 +33,18 @@ body {
   color: #404bbf;
 }
 
+.link-item {
+  color: #2e2f42;
+}
+
+.link-item:hover {
+  color: #404bbf;
+}
+
+.link-item:focus {
+  color: #404bbf;
+}
+
 .footer {
   background-color: #2e2f42;
 }
