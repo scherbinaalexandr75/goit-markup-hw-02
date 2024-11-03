@@ -45,6 +45,23 @@ body {
   color: #404bbf;
 }
 
+.address {
+  font-style: normal;
+}
+
+.mail-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.mail-link:hover {
+  color: #404bbf;
+}
+
+.mail-link:focus {
+  color: #404bbf;
+}
 .footer {
   background-color: #2e2f42;
 }
